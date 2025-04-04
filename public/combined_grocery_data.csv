@@ -1,0 +1,722 @@
+
+2025-02-15,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-02-15,Costco,Dairy,SLC CHEDDAR,1,each,10.69,10.69
+2025-02-15,Costco,Dairy,OAT MILK,1,each,11.99,11.99
+2025-02-15,Costco,Household,KS TOWEL,1,each,20.49,20.49
+2025-02-15,Costco,Pantry,KS DICED TOM,1,each,8.99,8.99
+2025-02-15,Costco,Produce,10LB BAKERS,1,each,4.59,4.59
+2025-02-15,Costco,Alcohol,KS LAGER,1,each,13.99,13.99
+2025-02-15,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-02-15,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-02-15,Costco,Bakery,DAVE'S THIN,1,each,-2.50,-2.50
+2025-02-15,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-02-15,Costco,Bakery,DAVE'S THIN,1,each,-2.50,-2.50
+2025-02-15,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-02-15,Costco,Dairy,KS U/S QTRS,1,each,13.59,13.59
+2025-02-15,Costco,Produce,ORG BELLAS,1,each,5.69,5.69
+2025-02-15,Costco,Produce,ORG BELLAS,1,each,5.69,5.69
+2025-02-15,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-02-15,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-02-15,Costco,Pantry,KS BLUEBERRY,1,each,8.29,8.29
+2025-02-15,Costco,Dairy,PHL CRM CHSE,1,each,10.59,10.59
+2025-02-15,Costco,Meat,KS RST TURKY,1,each,12.49,12.49
+2025-02-15,Costco,Produce,ROMAINE,1,each,3.69,3.69
+2025-02-15,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-02-15,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-02-15,Costco,Pantry,ORGANIC TOFU,1,each,6.99,6.99
+2025-02-15,Costco,Produce,4LB COSMIC,1,each,4.89,4.89
+2025-02-15,Costco,Pantry,KS RAW HONEY,1,each,11.79,11.79
+2025-02-15,Costco,Pantry,KS ALMONDS,1,each,6.99,6.99
+2025-02-15,Costco,Pantry,ORGANIC TOFU,1,each,5.39,5.39
+2025-02-15,Costco,Produce,GRAPEFRUIT,1,each,6.89,6.89
+2025-02-15,Costco,Produce,MIXED PEPPER,1,each,12.79,12.79
+2025-02-15,Costco,Pantry,KODIAK CAKES,1,each,4.00,4.00
+2025-02-15,Costco,Pantry,KODIAK CAKES,1,each,-1.49,-1.49
+2025-02-15,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-02-15,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-02-15,Costco,Pantry,KS PURE SALT,1,each,3.39,3.39
+2025-02-15,Costco,Pantry,KS ORG EVOO,1,each,22.99,22.99
+2025-02-15,Costco,Produce,ORANGES,1,each,6.49,6.49
+2025-02-15,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-02-15,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-02-15,Costco,Pantry,KS ALBACORE,1,each,14.99,14.99
+2025-02-15,Costco,Pantry,ORG SPAGHTTI,1,each,11.49,11.49
+2025-02-15,Costco,Other,PUMA BIKINI,1,each,13.99,13.99
+2025-02-15,Costco,Other,PUMA BIKINI,1,each,-3.00,-3.00
+2025-02-22,WinCo Foods,Produce,KALE,3,each,1.28,3.84
+2025-02-22,WinCo Foods,Produce,CAB NAPPA,2.37,lb,0.98,2.32
+2025-02-22,WinCo Foods,Produce,CILANTRO,2,each,0.58,1.16
+2025-02-22,WinCo Foods,Produce,PARSLEY ITALIAN,1,each,0.58,0.58
+2025-02-22,WinCo Foods,Produce,ASPARAGUS,2.10,lb,1.88,3.95
+2025-02-22,WinCo Foods,Produce,CELERY,2,each,1.28,2.56
+2025-02-22,WinCo Foods,Produce,GARLIC CLOVES,2,each,0.68,1.36
+2025-02-22,WinCo Foods,Produce,BROCCOLI CROWNS,2.23,lb,1.28,2.85
+2025-02-22,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.48,2.48
+2025-02-22,WinCo Foods,Produce,CAB GREEN,2.04,lb,0.78,1.59
+2025-02-22,WinCo Foods,Produce,PARSLEY,1.11,lb,2.98,3.31
+2025-02-22,WinCo Foods,Pantry,RAISINS MEDLEY,5,each,0.48,2.40
+2025-02-22,WinCo Foods,Produce,PPR BELL GRN,4,each,0.88,3.52
+2025-02-22,WinCo Foods,Produce,AVOCADO MED,2,each,0.78,1.56
+2025-02-22,WinCo Foods,Produce,LIMES,0.76,lb,5.78,4.39
+2025-02-22,WinCo Foods,Pantry,WALNUTS MED PCS,4.77,lb,0.50,2.39
+2025-02-22,WinCo Foods,Produce,BANANAS,1,each,1.70,1.70
+2025-02-22,WinCo Foods,Pantry,WINCO BRD CRMBS,1,each,7.88,7.88
+2025-02-22,WinCo Foods,Pantry,ADAMS PNT BTR,1,each,2.51,2.51
+2025-02-22,WinCo Foods,Pantry,MORTON SEA SALT,1,each,3.58,3.58
+2025-02-22,WinCo Foods,Pantry,NAKANO RICE VIN,1,each,2.78,2.78
+2025-02-22,WinCo Foods,Dairy,WINCO PARMESAN,1,each,5.67,5.67
+2025-02-22,WinCo Foods,Dairy,WINCO WHIP CRM,1,each,5.67,5.67
+2025-02-22,WinCo Foods,Pantry,ROLAND TAHINI,0.60,lb,9.98,5.99
+2025-02-22,WinCo Foods,Pantry,COFFEE BULK,0.63,lb,9.50,5.99
+2025-02-22,WinCo Foods,Produce,CUCUMBER,3,each,0.58,1.74
+2025-02-22,WinCo Foods,Produce,ONIONS RED,2.63,lb,0.98,2.58
+2025-03-08,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-03-08,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-03-08,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-03-08,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-03-08,Costco,Alcohol,KS GRIGIO 3L,1,each,14.79,14.79
+2025-03-08,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-03-08,Costco,Alcohol,KS LAGER,1,each,13.99,13.99
+2025-03-08,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-03-08,Costco,Eggs,KS CAGE FREE,1,each,8.59,8.59
+2025-03-08,Costco,Eggs,KS CAGE FREE,1,each,8.59,8.59
+2025-03-08,Costco,Eggs,KS CAGE FREE,1,each,8.59,8.59
+2025-03-08,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-03-08,Costco,Dairy,KS U/S QTRS,1,each,13.59,13.59
+2025-03-08,Costco,Pantry,KS BLUEBERRY,1,each,8.29,8.29
+2025-03-08,Costco,Meat,KS RST TURKY,1,each,12.49,12.49
+2025-03-08,Costco,Other,ORG SILK ALM,1,each,10.99,10.99
+2025-03-08,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-03-08,Costco,Pantry,UTZ PUB MIX,1,each,8.99,8.99
+2025-03-08,Costco,Pantry,UTZ PUB MIX,1,each,-2.30,-2.30
+2025-03-08,Costco,Produce,CRNM APPLE,1,each,5.99,5.99
+2025-03-08,Costco,Produce,STRAWBERRIES,1,each,4.99,4.99
+2025-03-08,Costco,Pantry,KS SPRIN OIL,1,each,22.99,22.99
+2025-03-08,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-03-08,Costco,Pantry,KS ALBACORE,1,each,14.99,14.99
+2025-03-08,Costco,Produce,GUER CORN 6",1,each,4.29,4.29
+2025-03-08,Costco,Pantry,KODIAK CAKES,1,each,12.79,12.79
+2025-03-08,Costco,Produce,LEMONS,1,each,5.59,5.59
+2025-03-08,Costco,Produce,10LB BAKERS,1,each,4.59,4.59
+2025-03-08,Costco,Pantry,CHOMPS STICK,1,each,16.99,16.99
+2025-03-08,Costco,Bakery,DAVE'S 21 WG,1,each,9.49,9.49
+2025-03-08,Costco,Bakery,DAVE'S 21 WG,1,each,-2.50,-2.50
+2025-03-08,Costco,Produce,AVOCADOS,1,each,9.99,9.99
+2025-03-08,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-08,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-08,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-08,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-08,Costco,Produce,GRAPEFRUIT,1,each,4.79,4.79
+2025-03-08,Costco,Produce,GRAPEFRUIT,1,each,4.79,4.79
+2025-03-08,Costco,Produce,GRAPEFRUIT,1,each,-4.79,-4.79
+2025-03-08,Costco,Produce,GRAPEFRUIT,1,each,6.89,6.89
+2025-03-08,Costco,Produce,MIXED PEPPER,1,each,3.99,3.99
+2025-03-08,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-03-08,Costco,Pantry,KS HOUSE,1,each,15.49,15.49
+2025-03-08,Costco,Produce,4LB ORG FUJI,1,each,5.29,5.29
+2025-03-08,Costco,Produce,CARA ORANGES,1,each,4.29,4.29
+2025-03-08,Costco,Pantry,KS ALMONDS,1,each,11.79,11.79
+2025-01-18,Costco,Pantry,KS OATS,1,each,7.99,7.99
+2025-01-18,Costco,Pantry,12.9QT 4PK,1,each,9.99,9.99
+2025-01-18,Costco,Other,DISCOUNT,1,each,-3.00,-3.00
+2025-01-18,Costco,Produce,LEMONS,1,each,5.69,5.69
+2025-01-18,Costco,Produce,10LB BAKERS,1,each,4.59,4.59
+2025-01-18,Costco,Alcohol,KS GRIGIO 3L,1,each,14.79,14.79
+2025-01-18,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-01-18,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-01-18,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-01-18,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-01-18,Costco,Other,DAVE'S 21 WG,1,each,9.49,9.49
+2025-01-18,Costco,Pantry,KS PNUT BUTR,1,each,9.99,9.99
+2025-01-18,Costco,Dairy,GREEK YOGURT,1,each,6.29,6.29
+2025-01-18,Costco,Dairy,SLC CHEDDAR,1,each,10.69,10.69
+2025-01-18,Costco,Meat,MEATYTY W/TK,1,each,12.79,12.79
+2025-01-18,Costco,Pantry,CINN STICKS,1,each,6.39,6.39
+2025-01-18,Costco,Pantry,KS PURE SALT,1,each,3.39,3.39
+2025-01-18,Costco,Pantry,KS PEPPRCORN,1,each,6.69,6.69
+2025-01-18,Costco,Dairy,KS BUTER QTR,1,each,13.59,13.59
+2025-01-18,Costco,Pantry,KS HOUSE,1,each,13.99,13.99
+2025-01-18,Costco,Produce,AVOCADOS,1,each,6.99,6.99
+2025-01-18,Costco,Produce,ORG YEL ONIO,1,each,4.99,4.99
+2025-01-18,Costco,Produce,ORG BANANAS,1,each,1.99,1.99
+2025-01-18,Costco,Household,KS FOILSHEET,1,each,13.69,13.69
+2025-03-26,Grocery Store (Coachella CA),Household,ICE TRAY,1,each,2.99,2.99
+2025-03-26,Grocery Store (Coachella CA),Household,ICE TRAY,1,each,2.99,2.99
+2025-03-26,Grocery Store (Coachella CA),Eggs,KRO CF GRD AA XL E,1,each,11.29,11.29
+2025-03-26,Grocery Store (Coachella CA),Produce,LEMON FANCY,7.22,lb,0.99,7.15
+2025-03-26,Grocery Store (Coachella CA),Produce,PAPAYA,7,each,0.33,2.31
+2025-03-26,Grocery Store (Coachella CA),Produce,CUCUMBERS,1,each,2.31,2.31
+2025-03-26,Grocery Store (Coachella CA),Produce,KRO GRAPEFRUIT RED,1,each,5.99,5.99
+2025-03-26,Grocery Store (Coachella CA),Produce,SNPC CUTIES,1,each,4.99,4.99
+2025-03-26,Grocery Store (Coachella CA),Produce,STO APPLES GRNY SM,2.25,lb,2.49,5.60
+2025-03-26,Grocery Store (Coachella CA),Produce,GRAPES RED,3,each,0.99,2.97
+2025-03-26,Grocery Store (Coachella CA),Produce,PPR BELL RED,5,each,0.69,3.45
+2025-03-26,Grocery Store (Coachella CA),Produce,PPR BELL GRN,5,each,0.69,3.45
+2025-03-26,Grocery Store (Coachella CA),Produce,STO APPLES FUJI PO,3,each,0.10,0.30
+2025-03-26,Grocery Store (Coachella CA),Household,CHECKOUT BAG TAX,3,each,0.10,0.30
+2025-03-26,Grocery Store (Coachella CA),Other,TAX,1,each,0.52,0.52
+2025-03-22,Costco,Eggs,KS CAGE FREE,1,each,8.69,8.69
+2025-03-22,Costco,Eggs,KS CAGE FREE,1,each,8.69,8.69
+2025-03-22,Costco,Eggs,KS CAGE FREE,1,each,8.69,8.69
+2025-03-22,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-03-22,Costco,Produce,KALE/CHARD,1,each,4.99,4.99
+2025-03-22,Costco,Produce,WATERMELON,1,each,9.89,9.89
+2025-03-22,Costco,Alcohol,KS LAGER,1,each,13.99,13.99
+2025-03-22,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-03-22,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-22,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-22,Costco,Dairy,KS FETA,1,each,13.49,13.49
+2025-03-22,Costco,Pantry,ORGANIC TOFU,1,each,6.99,6.99
+2025-03-22,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-03-22,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-03-22,Costco,Pantry,KS MEX CHEES,1,each,14.59,14.59
+2025-03-22,Costco,Dairy,KS U/S QTRS,1,each,13.59,13.59
+2025-03-22,Costco,Other,ORG SILK ALM,1,each,10.99,10.99
+2025-03-22,Costco,Pantry,ORGANIC GRANO,1,each,21.99,21.99
+2025-03-22,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-03-22,Costco,Meat,KS RST TURKY,1,each,12.49,12.49
+2025-03-22,Costco,Pantry,KS ORG SYRUP,1,each,12.99,12.99
+2025-03-22,Costco,Pantry,KS SPAIN OIL,1,each,26.49,26.49
+2025-03-22,Costco,Pantry,KS ALBACORE,1,each,14.99,14.99
+2025-03-22,Costco,Pantry,KS DICED TOM,1,each,8.99,8.99
+2025-03-22,Costco,Produce,MIXED PEPPER,1,each,6.89,6.89
+2025-03-22,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-03-22,Costco,Pantry,KS MF BEAN,1,each,11.79,11.79
+2025-03-22,Costco,Pantry,KODIAK CAKES,1,each,12.79,12.79
+2025-03-22,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-03-22,Costco,Produce,AVOCADOS,1,each,10.59,10.59
+2025-03-22,Costco,Produce,ORG BELLAS,1,each,5.79,5.79
+2025-03-22,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-03-22,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-03-22,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-22,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-22,Costco,Produce,CARA ORANGES,1,each,4.29,4.29
+2025-03-29,WinCo Foods,Eggs,HICKMAN EGGS 5,1,each,34.53,34.53
+2025-03-29,WinCo Foods,Eggs,NELLIE'S EGGS,1,each,5.64,5.64
+2025-03-29,WinCo Foods,Pantry,THOMAS E/MFFIN,1,each,7.96,7.96
+2025-03-29,WinCo Foods,Bakery,WHS BREAD,1,each,5.78,5.78
+2025-03-29,WinCo Foods,Meat,RIB BREAD,1,each,8.76,8.76
+2025-03-29,WinCo Foods,Meat,ROAST BEEF,1,each,5.59,5.59
+2025-03-29,WinCo Foods,Pantry,KC BBQ SAUCE,1,each,2.99,2.99
+2025-03-29,WinCo Foods,Meat,CORNED BEEF,1,each,10.96,10.96
+2025-03-29,WinCo Foods,Dairy,WINCO WHIP CRM,1,each,4.18,4.18
+2025-03-29,WinCo Foods,Meat,CORNED BEEF,1,each,7.44,7.44
+2025-03-29,WinCo Foods,Dairy,TILLAMOOK CHEES,1,each,4.94,4.94
+2025-03-29,WinCo Foods,Dairy,TILL SLC CHEESE,1,each,4.18,4.18
+2025-03-29,WinCo Foods,Dairy,WINCO GENOA S,1,each,3.88,3.88
+2025-03-29,WinCo Foods,Dairy,HAM SLC FOREST,1,each,6.95,6.95
+2025-03-29,WinCo Foods,Meat,ROAST BEEF,1,each,2.49,2.49
+2025-03-29,WinCo Foods,Pantry,POMPEIAN OLIVE OIL,1,each,2.63,2.63
+2025-03-29,WinCo Foods,Pantry,C/GIRL BAN PMKN,1,each,1.98,1.98
+2025-03-29,WinCo Foods,Pantry,WINCO SO CRKRS,1,each,1.98,1.98
+2025-03-29,WinCo Foods,Pantry,COFFEE BULK,0.88,lb,9.98,8.78
+2025-03-29,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-29,WinCo Foods,Produce,CAB GREEN,3.12,lb,0.87,2.71
+2025-03-29,WinCo Foods,Produce,TOMATO QTY,4,each,0.70,8.68
+2025-03-29,WinCo Foods,Produce,KALE,3,each,0.98,2.94
+2025-03-29,WinCo Foods,Produce,RAISINS GOLDEN,0.74,lb,2.88,2.13
+2025-03-29,WinCo Foods,Pantry,WALNUTS MED PCS,1.43,lb,5.38,7.69
+2025-03-29,WinCo Foods,Pantry,ALMND NATURAL,0.55,lb,3.58,1.97
+2025-03-29,WinCo Foods,Pantry,DRIED CHERRIES,2.84,lb,5.98,16.99
+2025-03-29,WinCo Foods,Produce,PPR BELL RED,1.29,lb,3.80,4.90
+2025-03-29,WinCo Foods,Pantry,CHOC WAFER B/S,2,each,9.34,18.68
+2025-03-29,WinCo Foods,Produce,TOMATOES ENSOG,1,each,6.58,6.58
+2025-03-29,WinCo Foods,Produce,PARSLEY,1,each,0.58,0.58
+2025-03-29,WinCo Foods,Produce,CILANTRO,2,each,0.58,1.16
+2025-03-29,WinCo Foods,Produce,ONIONS GREEN,1.50,lb,0.58,0.87
+2025-03-29,WinCo Foods,Produce,ONIONS YELLOW,1,each,0.99,0.99
+2025-03-29,WinCo Foods,Produce,ONIONS RED,3,each,0.48,1.45
+2025-03-29,WinCo Foods,Produce,GARLIC CLOVES,4,each,0.68,2.72
+2025-03-29,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.56,2.56
+2025-03-29,WinCo Foods,Produce,CUCUMBER,2,each,1.28,2.90
+2025-03-29,WinCo Foods,Produce,CELERY,2,each,1.28,2.56
+2025-03-29,WinCo Foods,Produce,LEMON SMALL,5,each,0.28,1.40
+2025-03-29,WinCo Foods,Produce,LIMES,6,each,0.28,1.68
+2025-03-29,WinCo Foods,Produce,ASI CRSPIG CUSP,5.20,lb,0.98,5.10
+2025-03-29,WinCo Foods,Produce,CARROTS 2#,4,each,0.78,3.12
+2025-03-29,WinCo Foods,Produce,PPR BELL GRN,5,each,0.68,3.40
+2025-03-29,WinCo Foods,Produce,MANGO ATAULFO,5,each,0.68,3.40
+2025-03-29,WinCo Foods,Pantry,ADAMS PNT BTR,2,each,7.88,15.76
+2025-03-29,WinCo Foods,Pantry,WINCO MUSTARD,1,each,1.67,1.67
+2025-03-29,WinCo Foods,Pantry,THAI FISH SAUCE,1,each,2.29,2.29
+2025-03-29,WinCo Foods,Pantry,GUERRERO TORTLA,1,each,2.58,2.58
+2025-03-29,WinCo Foods,Produce,DOLE BANANAS,8.11,lb,0.68,5.54
+2025-03-29,WinCo Foods,Produce,MELON WTR S/L,12.19,lb,0.67,8.19
+2025-03-29,WinCo Foods,Bakery,CINN RAMEL BR,3,each,0.70,2.09
+2025-03-29,WinCo Foods,Household,SUNSHINE WINCO,2,each,1.45,2.90
+2025-03-29,WinCo Foods,Alcohol,FIG MTN,6,each,3.38,20.28
+2025-03-29,WinCo Foods,CRV,CRV,6,each,0.10,0.60
+2025-03-29,WinCo Foods,Household,P/QUAT ORIG REV,1,each,13.38,13.38
+2025-03-29,WinCo Foods,Dairy,WINCO MLK ORWHWG,1,each,3.99,3.99
+2025-03-29,WinCo Foods,Produce,POTATOES IDN,10,each,0.39,3.90
+2025-03-29,WinCo Foods,Household,T-SHIRT BAG,2,each,0.10,0.20
+2025-03-29,WinCo Foods,Other,SALES TAX,1,each,6.08,6.08
+2025-03-01,WinCo Foods,Pantry,ADAMS PNT BTR,2,each,2.22,7.88
+2025-03-01,WinCo Foods,Pantry,WINCO CRACKER,2,each,1.70,4.44
+2025-03-01,WinCo Foods,Pantry,WINCO BRD CRMBS,1,each,3.40,3.40
+2025-03-01,WinCo Foods,Household,WINCO SPONGE NS,1,each,4.57,4.57
+2025-03-01,WinCo Foods,Pantry,WINCO MARSHMALL,2,each,3.88,7.76
+2025-03-01,WinCo Foods,Pantry,HERSHEY GIANT B,1,each,3.88,3.88
+2025-03-01,WinCo Foods,Pantry,HERSHEY CANDY B,1,each,1.98,1.98
+2025-03-01,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-01,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-01,WinCo Foods,Pantry,WINCO TEA,1,each,2.94,2.94
+2025-03-01,WinCo Foods,Pantry,BIGELOW TEA,1,each,3.04,3.04
+2025-03-01,WinCo Foods,Pantry,WINCO MAYO SQZ,1,each,6.12,6.12
+2025-03-01,WinCo Foods,Pantry,SACO COCOA,1,each,5.67,5.67
+2025-03-01,WinCo Foods,Dairy,WINCO WHIP CRM,1,each,2.35,2.35
+2025-03-01,WinCo Foods,Produce,ROMAINE HEARTS,2,each,1.38,2.76
+2025-03-01,WinCo Foods,Produce,GREENS COLLARD,2.37,lb,1.28,3.03
+2025-03-01,WinCo Foods,Produce,BROCCOLI CROWNS,1,each,1.28,1.28
+2025-03-01,WinCo Foods,Produce,CELERY,4,each,0.48,1.92
+2025-03-01,WinCo Foods,Produce,PPR BELL GRN,1,each,0.58,0.58
+2025-03-01,WinCo Foods,Produce,PARSLEY,1,each,0.48,0.48
+2025-03-01,WinCo Foods,Produce,CILANTRO,1,each,0.48,0.48
+2025-03-01,WinCo Foods,Produce,ASPARAGUS,3.86,lb,1.88,7.26
+2025-03-01,WinCo Foods,Produce,CUCUMBER,1.08,lb,2.88,3.11
+2025-03-01,WinCo Foods,Pantry,RAISINS GOLDEN,6,each,0.88,5.28
+2025-03-01,WinCo Foods,Produce,AVOCADO MED,1.73,lb,1.48,2.56
+2025-03-01,WinCo Foods,Pantry,BEANS KIDNEY RD,0.86,lb,14.48,12.45
+2025-03-01,WinCo Foods,Pantry,CHOC WAFER B/S,12.33,lb,0.68,8.38
+2025-03-01,WinCo Foods,Produce,MELON WTR S/L,3,each,0.28,0.84
+2025-03-01,WinCo Foods,Produce,LIMES,4,each,0.58,2.32
+2025-03-01,WinCo Foods,Produce,CUCUMBER,1.39,lb,5.78,8.03
+2025-03-01,WinCo Foods,Pantry,WALNUTS MED PCS,2.84,lb,1.18,3.35
+2025-03-01,WinCo Foods,Pantry,BEANS NAVY,0.99,lb,7.78,7.70
+2025-03-01,WinCo Foods,Pantry,DRIED CHERRIES,2,each,13.18,26.36
+2025-03-01,WinCo Foods,Household,WTR BTL 5GL HND,1,each,26.36,26.36
+2025-03-01,WinCo Foods,Household,T-SHIRT BAG,1,each,0.10,0.10
+2025-03-01,WinCo Foods,Other,SALES TAX,1,each,4.06,4.06
+2025-03-15,WinCo Foods,Household,WINCO PARCHMNT,1,each,1.98,1.98
+2025-03-15,WinCo Foods,Eggs,HICKMAN EGGS 5,1,each,39.38,39.38
+2025-03-15,WinCo Foods,Dairy,WNCO MLK ORWHWG,1,each,3.98,3.98
+2025-03-15,WinCo Foods,Dairy,WINCO WHIP CRM,2,each,5.99,11.98
+2025-03-15,WinCo Foods,Pantry,WINCO COCOA MIX,1,each,3.67,3.67
+2025-03-15,WinCo Foods,Pantry,WINCO MAYO SQZ,1,each,3.04,3.04
+2025-03-15,WinCo Foods,Pantry,COFFEE BULK,0.74,lb,9.98,7.39
+2025-03-15,WinCo Foods,Pantry,CHOC WAFER B/S,1.45,lb,14.48,21.00
+2025-03-15,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-15,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-15,WinCo Foods,Pantry,WINCO FLR,1.76,lb,6.28,11.05
+2025-03-15,WinCo Foods,Pantry,CHIPS MILK CHOC,2,each,0.58,1.16
+2025-03-15,WinCo Foods,Produce,ONIONS GREEN,2,each,0.48,0.96
+2025-03-15,WinCo Foods,Produce,CILANTRO,1.47,lb,2.98,4.38
+2025-03-15,WinCo Foods,Pantry,RAISINS MEDLEY,1,each,1.28,3.02
+2025-03-15,WinCo Foods,Produce,BROCCOLI CROWNS,2.36,lb,1.28,3.02
+2025-03-15,WinCo Foods,Pantry,CHIPS DARK CHOC,1.49,lb,6.38,9.51
+2025-03-15,WinCo Foods,Produce,PPR BELL GRN,3,each,0.58,1.74
+2025-03-15,WinCo Foods,Pantry,ADAMS PNT BTR,2,each,1.88,3.76
+2025-03-15,WinCo Foods,Pantry,SAVIA COCONUT,3,each,0.98,2.94
+2025-03-15,WinCo Foods,Produce,KALE,1,each,11.84,11.84
+2025-03-15,WinCo Foods,Pantry,FLR WINCO 25#,1,each,2.48,2.48
+2025-03-15,WinCo Foods,Produce,ROMAINE HEARTS,7,each,0.88,6.16
+2025-03-15,WinCo Foods,Produce,AVOCADO MED,3.13,lb,1.68,5.26
+2025-03-15,WinCo Foods,Produce,ASPARAGUS,1.68,lb,0.98,1.65
+2025-03-15,WinCo Foods,Produce,ONIONS RED,4,each,0.28,1.12
+2025-03-15,WinCo Foods,Produce,LEMON SMALL,2,each,0.28,0.56
+2025-03-15,WinCo Foods,Produce,LIMES,5,each,0.58,2.90
+2025-03-15,WinCo Foods,Produce,CUCUMBER,2,each,1.28,2.56
+2025-03-15,WinCo Foods,Produce,CELERY,1,each,0.68,0.68
+2025-03-15,WinCo Foods,Produce,MELON WTR S/L,12.36,lb,0.68,8.40
+2025-03-15,WinCo Foods,Household,T-SHIRT BAG,2,each,0.10,0.20
+2025-03-15,WinCo Foods,Other,SALES TAX,1,each,0.17,0.17
+2025-03-01,Costco,Eggs,KS CAGE FREE,1,each,8.59,8.59
+2025-03-01,Costco,Eggs,KS CAGE FREE,1,each,8.59,8.59
+2025-03-01,Costco,Eggs,KS CAGE FREE,1,each,8.59,8.59
+2025-03-01,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-03-01,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-03-01,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-03-01,Costco,Pantry,KS DICED TOM,1,each,8.59,8.59
+2025-03-01,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-03-01,Costco,Produce,MIXED PEPPER,1,each,6.89,6.89
+2025-03-01,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-03-01,Costco,Produce,4LB ORG FUJI,1,each,5.29,5.29
+2025-03-01,Costco,Produce,AVOCADOS,1,each,9.99,9.99
+2025-03-01,Costco,Pantry,KS ALMONDS,1,each,11.79,11.79
+2025-03-01,Costco,Pantry,KS WALNUTS,1,each,11.99,11.99
+2025-03-01,Costco,Pantry,ORGKALAMATA,1,each,8.99,8.99
+2025-03-01,Costco,Produce,10LB BAKERS,1,each,4.59,4.59
+2025-03-01,Costco,Alcohol,KS GRIGIO 3L,1,each,14.79,14.79
+2025-03-01,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-03-01,Costco,Alcohol,KS LAGER,1,each,13.99,13.99
+2025-03-01,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-03-01,Costco,Dairy,PHL CRM CHSE,1,each,10.39,10.39
+2025-03-01,Costco,Meat,KS RST TURKY,1,each,12.49,12.49
+2025-03-01,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-03-01,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-03-01,Costco,Dairy,OAT MILK,1,each,11.99,11.99
+2025-03-01,Costco,Other,DISCOUNT,1,each,-3.00,-3.00
+2025-03-01,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-03-01,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-03-01,Costco,Dairy,KS U/S QTRS,1,each,13.59,13.59
+2025-03-01,Costco,Produce,ORG BELLAS,1,each,5.69,5.69
+2025-03-01,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-01,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-01,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-01,Costco,Eggs,PASTURE EGGS,1,each,8.59,8.59
+2025-03-01,Costco,Eggs,PASTURE EGGS,1,each,8.59,8.59
+2025-03-01,Costco,Eggs,PASTURE EGGS,1,each,8.59,8.59
+2025-03-01,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-03-01,Costco,Pantry,KS SPAIN OIL,1,each,26.49,26.49
+2025-03-01,Costco,Produce,4LB ORG FUJI,1,each,5.29,5.29
+2025-03-01,Costco,Produce,AVOCADOS,1,each,9.99,9.99
+2025-03-01,Costco,Pantry,KS ALMONDS,1,each,11.79,11.79
+2025-03-01,Costco,Pantry,KS WALNUTS,1,each,11.99,11.99
+2025-03-15,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-03-15,Costco,Alcohol,KS GRIGIO 3L,1,each,14.79,14.79
+2025-03-15,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-03-15,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-03-15,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-03-15,Costco,Alcohol,KS LAGER,1,each,13.99,13.99
+2025-03-15,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-03-15,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-15,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-15,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-03-15,Costco,Pantry,KS WALNUTS,1,each,11.99,11.99
+2025-03-15,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-03-15,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-03-15,Costco,Meat,KS SLCD HAM,1,each,9.59,9.59
+2025-03-15,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-03-15,Costco,Dairy,PHL CRM CHSE,1,each,10.59,10.59
+2025-03-15,Costco,Dairy,KS FETA,1,each,13.29,13.29
+2025-03-15,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-03-15,Costco,Produce,ORG BANANAS,1,each,1.99,1.99
+2025-03-15,Costco,Pantry,KS DICED TOM,1,each,8.99,8.99
+2025-03-15,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-03-15,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-03-15,Costco,Produce,MIXED PEPPER,1,each,6.89,6.89
+2025-03-15,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-03-15,Costco,Produce,4LB COSMIC,1,each,4.49,4.49
+2025-03-15,Costco,Produce,CARA ORANGES,1,each,4.29,4.29
+2025-03-15,Costco,Produce,FRESH GARLIC,1,each,4.99,4.99
+2025-03-15,Costco,Pantry,KS ALMONDS,1,each,11.79,11.79
+2025-03-15,Costco,Pantry,KS STIR FRY,1,each,9.59,9.59
+2025-03-15,Costco,Pantry,ORG SPAGHTTI,1,each,11.49,11.49
+2025-03-15,Costco,Pantry,KS PURE SALT,1,each,3.39,3.39
+2025-03-15,Costco,Dairy,KS U/S QTRS,1,each,13.59,13.59
+2025-03-15,Costco,Produce,ORG BELLAS,1,each,5.69,5.69
+2025-03-15,Costco,Produce,10LB BAKERS,1,each,4.59,4.59
+2025-03-15,Costco,Produce,AVOCADOS,1,each,10.29,10.29
+2025-01-18,WinCo Foods,Pantry,RITA BEANS,2,each,1.38,2.76
+2025-01-18,WinCo Foods,Pantry,WINCO WHL CORN,3,each,0.68,1.36
+2025-01-18,WinCo Foods,Pantry,OKR RICE CAKES,1,each,10.92,10.92
+2025-01-18,WinCo Foods,Pantry,EL COMAL TORTI,2,each,2.76,4.11
+2025-01-18,WinCo Foods,Pantry,MUIR GLEN DICE,1,each,5.52,5.52
+2025-01-18,WinCo Foods,Produce,S & W VEGETABLE,4,each,9.04,4.93
+2025-01-18,WinCo Foods,Pantry,WINCO MAYO SQZ,1,each,3.04,3.04
+2025-01-18,WinCo Foods,Alcohol,FIG MTN,4,each,9.04,36.16
+2025-01-18,WinCo Foods,CRV,CRV,4,each,0.30,1.20
+2025-01-18,WinCo Foods,Produce,LIME,1.19,lb,1.25,1.49
+2025-01-18,WinCo Foods,Pantry,PSTA SPAGHETTI,0.16,lb,4.48,0.72
+2025-01-18,WinCo Foods,Pantry,CORIANDER GRND,1.24,lb,1.12,1.39
+2025-01-18,WinCo Foods,Pantry,PSTA ROTINI,2.50,lb,1.48,3.70
+2025-01-18,WinCo Foods,Pantry,BEANS LNTLS RED,1.24,lb,1.22,1.51
+2025-01-18,WinCo Foods,Pantry,BEANS GARBANZO,0.10,lb,5.90,0.59
+2025-01-18,WinCo Foods,Pantry,OREGANO WHOLE,0.21,lb,6.18,1.30
+2025-01-18,WinCo Foods,Pantry,PAPRIKA,0.36,lb,4.18,1.50
+2025-01-18,WinCo Foods,Pantry,TURMERIC GROUND,0.09,lb,5.08,0.46
+2025-01-18,WinCo Foods,Pantry,THYME,0.19,lb,4.58,0.87
+2025-01-18,WinCo Foods,Pantry,FENNEL SEED WHL,0.05,lb,5.88,0.29
+2025-01-18,WinCo Foods,Pantry,BASIL,0.06,lb,12.18,0.73
+2025-01-18,WinCo Foods,Pantry,DILL WEED,1,each,1.28,1.28
+2025-01-18,WinCo Foods,Produce,CELERY,1,each,0.98,0.98
+2025-01-18,WinCo Foods,Produce,KALE,0.48,lb,2.48,1.19
+2025-01-18,WinCo Foods,Produce,ROOT GINGER,0.81,lb,1.98,1.60
+2025-01-18,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.48,2.48
+2025-01-18,WinCo Foods,Produce,TOMATOES QTY,2.55,lb,1.28,3.26
+2025-01-18,WinCo Foods,Produce,BROCCOLI CROWNS,1,each,0.58,0.58
+2025-01-18,WinCo Foods,Produce,ONIONS GREEN,7,each,0.18,1.26
+2025-01-18,WinCo Foods,Household,SPICE BTL 8Z,1,each,8.96,8.96
+2025-01-18,WinCo Foods,Produce,CARROTS 2#,1,each,1.48,1.48
+2025-01-18,WinCo Foods,Household,SPICE BTL 4Z,4,each,0.78,3.12
+2025-01-18,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-01-18,WinCo Foods,Eggs,HICKMAN EGGS,1,each,6.99,6.99
+2025-01-18,WinCo Foods,Eggs,LUCERNE EGGS,1,each,2.98,2.98
+2025-01-18,WinCo Foods,Pantry,MCCORMK SPICE,1,each,2.98,2.98
+2025-01-18,WinCo Foods,Pantry,MCCORMK SPICE,1,each,1.98,1.98
+2025-01-18,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-01-18,WinCo Foods,Dairy,WINCO CREAM CHE,1,each,2.05,2.05
+2025-01-18,WinCo Foods,Pantry,WINCO SUGAR,1,each,4.93,4.93
+2025-01-18,WinCo Foods,Pantry,WINCO FLOUR,1,each,2.78,2.78
+2025-01-18,WinCo Foods,Dairy,WINCO HVY CREAM,1,each,1.98,1.98
+2025-01-18,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-01-18,WinCo Foods,Other,SALES TAX,1,each,4.33,4.33
+2025-03-08,WinCo Foods,Produce,KALE,4,each,0.98,3.92
+2025-03-08,WinCo Foods,Produce,CILANTRO,1,each,0.48,0.48
+2025-03-08,WinCo Foods,Produce,PARSLEY,1,each,0.68,0.68
+2025-03-08,WinCo Foods,Produce,ONIONS GREEN,1,each,0.58,0.58
+2025-03-08,WinCo Foods,Produce,CELERY,4,each,0.58,1.28
+2025-03-08,WinCo Foods,Produce,CUCUMBER,4,each,0.58,2.32
+2025-03-08,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.48,2.48
+2025-03-08,WinCo Foods,Dairy,WINCO WHIP CRM,1,each,5.99,5.99
+2025-03-08,WinCo Foods,Produce,ASPARAGUS,3.20,lb,1.68,5.38
+2025-03-08,WinCo Foods,Pantry,ADAMS PNT BTR,1,each,7.88,7.88
+2025-03-08,WinCo Foods,Pantry,RAISINS MEDLEY,1.43,lb,2.98,4.26
+2025-03-08,WinCo Foods,Produce,BROCCOLI CROWNS,2.57,lb,1.28,3.29
+2025-03-08,WinCo Foods,Produce,AVOCADO MED,6,each,0.88,5.28
+2025-03-08,WinCo Foods,Produce,CAB NAPPA,2.52,lb,1.28,3.23
+2025-03-08,WinCo Foods,Pantry,CHOC WAFER B/S,0.78,lb,14.48,11.29
+2025-03-08,WinCo Foods,Pantry,SAVIA COCONUT,2,each,1.88,3.76
+2025-03-08,WinCo Foods,Pantry,B/FOOD MAYO,1,each,5.48,5.48
+2025-03-08,WinCo Foods,Pantry,ADAMS PNT BTR,1,each,7.88,7.88
+2025-03-08,WinCo Foods,Produce,CAB GREEN,3.16,lb,0.58,1.83
+2025-03-08,WinCo Foods,Produce,MELON WTR S/L,13.97,lb,0.68,9.50
+2025-01-25,WinCo Foods,Household,WTR BTL SGL WND,2,each,12.48,24.96
+2025-01-25,WinCo Foods,Pantry,WINCO MAYO SQZ,1,each,3.04,3.04
+2025-01-25,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-01-25,WinCo Foods,Pantry,WINCO JAM,1,each,1.67,1.67
+2025-01-25,WinCo Foods,Pantry,WINCO MUSTARD,1,each,1.67,1.67
+2025-01-25,WinCo Foods,Pantry,BEANS GARBANZO,3.16,lb,1.22,3.81
+2025-01-25,WinCo Foods,Pantry,WINCO COCONUT,1,each,1.48,1.48
+2025-01-25,WinCo Foods,Pantry,MCCORMK SPICE,1,each,6.98,6.98
+2025-01-25,WinCo Foods,Pantry,BEANS KIDNEY RD,2.95,lb,1.48,4.37
+2025-01-25,WinCo Foods,Pantry,BEANS LNTLS RED,2.84,lb,1.12,3.18
+2025-01-25,WinCo Foods,Pantry,PSTA ROTINI,6.66,lb,0.90,5.99
+2025-01-25,WinCo Foods,Pantry,BEANS PINTO,2.92,lb,1.18,3.45
+2025-01-25,WinCo Foods,Pantry,BEANS NAVY,2,each,2.98,5.96
+2025-01-25,WinCo Foods,Dairy,WINCO CREAM CHE,1,each,2.10,2.10
+2025-01-25,WinCo Foods,Pantry,WINCO BAKING PWD,1,each,2.10,2.10
+2025-01-25,WinCo Foods,Pantry,CHOC CHIP,8.22,lb,0.88,7.23
+2025-01-25,WinCo Foods,Pantry,MASECA CORN FLR,1,each,3.88,3.88
+2025-01-25,WinCo Foods,Produce,PEPPERS ANCHO,2.20,lb,1.28,2.82
+2025-01-25,WinCo Foods,Pantry,PSTA PENNE RIG,3.51,lb,0.98,3.44
+2025-01-25,WinCo Foods,Produce,ONIONS RED,1,each,2.16,2.16
+2025-01-25,WinCo Foods,Produce,ONIONS GREEN,6,each,0.58,0.58
+2025-01-25,WinCo Foods,Produce,PPR BELL GRN,4,each,0.51,2.04
+2025-01-25,WinCo Foods,Produce,CILANTRO,2,each,0.58,1.16
+2025-01-25,WinCo Foods,Pantry,CINNAMON,0.22,lb,5.38,1.18
+2025-01-25,WinCo Foods,Pantry,CUMIN SEEDS,0.34,lb,3.48,1.18
+2025-01-25,WinCo Foods,Pantry,DRIED CRANBERRIES,0.30,lb,5.78,1.74
+2025-01-25,WinCo Foods,Pantry,WALNUTS MED PCS,2.23,lb,1.24,2.77
+2025-01-25,WinCo Foods,Produce,GREENS COLLARD,1,each,3.72,3.72
+2025-01-25,WinCo Foods,Produce,KALE,2.96,lb,1.38,4.08
+2025-01-25,WinCo Foods,Produce,BROCCOLI CROWNS,1.26,lb,4.48,5.64
+2025-01-25,WinCo Foods,Pantry,ALMND NATURAL,2,each,0.98,1.96
+2025-01-25,WinCo Foods,Produce,CELERY,3.82,lb,1.12,4.28
+2025-01-25,WinCo Foods,Pantry,PSTA SPAGHETTI,2.97,lb,0.86,2.56
+2025-01-25,WinCo Foods,Pantry,CAB GREEN,6,each,1.98,11.88
+2025-01-25,WinCo Foods,Pantry,THAI COCONUT MLK,1,each,3.88,3.88
+2025-01-25,WinCo Foods,Pantry,SACO COCOA,1,each,2.86,2.86
+2025-01-25,WinCo Foods,Dairy,EL MEX QUESO,1,each,2.78,2.78
+2025-01-25,WinCo Foods,Pantry,WINCO BKING SDA,1,each,0.68,0.68
+2025-01-25,WinCo Foods,Pantry,WINCO CORN STAR,1,each,1.43,1.43
+2025-01-25,WinCo Foods,Produce,AVOCADO MED,2,each,1.75,3.49
+2025-01-25,WinCo Foods,Produce,LIMES,6,each,0.38,2.28
+2025-01-25,WinCo Foods,Dairy,EL MEX CREMA,1,each,2.98,2.98
+2025-01-25,WinCo Foods,Household,WINCO HAND SOAP,1,each,3.58,3.58
+2025-01-25,WinCo Foods,Household,AJAX DISH LIQ,1,each,3.97,3.97
+2025-01-25,WinCo Foods,Pantry,TYSON CURRY,1,each,4.38,4.38
+2025-01-25,WinCo Foods,Household,T-SHIRT BAG,3,each,0.10,0.30
+2025-01-25,WinCo Foods,Other,SALES TAX,1,each,3.86,3.86
+2025-03-22,WinCo Foods,Produce,DOLE BANANAS,4.13,lb,0.50,2.07
+2025-03-22,WinCo Foods,Pantry,WINCO VINEGAR,1,each,1.98,1.98
+2025-03-22,WinCo Foods,Pantry,STAR VINEGAR,1,each,2.62,2.62
+2025-03-22,WinCo Foods,Alcohol,SHIKAU SAKE,1,each,8.14,8.14
+2025-03-22,WinCo Foods,CRV,CRV,1,each,0.10,0.10
+2025-03-22,WinCo Foods,Produce,CELERY,2,each,1.28,2.56
+2025-03-22,WinCo Foods,Pantry,FLEISCHMAN YST,3.59,lb,0.98,4.28
+2025-03-22,WinCo Foods,Produce,BANANAS PLNTN,3,each,2.45,3.53
+2025-03-22,WinCo Foods,Pantry,SPRING ROLL WR,4,each,1.18,7.35
+2025-03-22,WinCo Foods,Pantry,CALIDAD TORTILA,1,each,4.72,4.72
+2025-03-22,WinCo Foods,Produce,ONIONS GREEN,1,each,0.58,0.58
+2025-03-22,WinCo Foods,Produce,PARSLEY,1,each,0.68,0.68
+2025-03-22,WinCo Foods,Produce,CILANTRO,1,each,0.48,0.48
+2025-03-22,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.48,2.48
+2025-03-22,WinCo Foods,Pantry,COFFEE BULK,0.69,lb,9.98,6.89
+2025-03-22,WinCo Foods,Pantry,TURMERIC GROUND,0.27,lb,4.18,1.13
+2025-03-22,WinCo Foods,Pantry,ORG MINT,1,each,1.58,1.58
+2025-03-22,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-22,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-03-22,WinCo Foods,Pantry,CINNAMON GROUND,0.17,lb,4.98,0.85
+2025-03-22,WinCo Foods,Pantry,CORN STARCH,0.37,lb,1.58,0.58
+2025-03-22,WinCo Foods,Produce,EGGPLANT,1,each,4.90,4.90
+2025-03-22,WinCo Foods,Produce,PPR BELL GRN,4,each,0.78,3.12
+2025-03-22,WinCo Foods,Produce,CAB GREEN,4.85,lb,0.68,3.30
+2025-03-22,WinCo Foods,Pantry,ADAMS PNT BTR,2,each,7.88,15.76
+2025-03-22,WinCo Foods,Produce,KALE,2,each,0.98,1.96
+2025-03-22,WinCo Foods,Produce,AVOCADO MED,7,each,0.96,6.72
+2025-03-22,WinCo Foods,Dairy,GALBANI CHEESE,3,each,6.58,19.74
+2025-03-22,WinCo Foods,Pantry,KIKKOMAN OIL,1,each,5.86,5.86
+2025-03-22,WinCo Foods,Pantry,KIKKOMAN SAUCE,1,each,4.27,4.27
+2025-03-22,WinCo Foods,Pantry,WINCO MUSTARD,1,each,1.67,1.67
+2025-03-22,WinCo Foods,Pantry,SAVIA COCONUT,6,each,1.88,11.28
+2025-03-22,WinCo Foods,Dairy,WINCO WHIP CRM,1,each,5.99,5.99
+2025-03-22,WinCo Foods,Pantry,BEANS NAVY,1.59,lb,1.18,1.88
+2025-03-22,WinCo Foods,Pantry,BEANS KIDNEY RD,1.56,lb,1.48,2.31
+2025-03-22,WinCo Foods,Pantry,BEANS LENTILS,2.51,lb,0.98,2.46
+2025-03-22,WinCo Foods,Pantry,CHOC WAFER B/S,0.78,lb,14.48,11.29
+2025-03-22,WinCo Foods,Pantry,RAISINS MEDLEY,1.32,lb,3.48,4.59
+2025-03-22,WinCo Foods,Other,SALES TAX,1,each,0.72,0.72
+2025-02-22,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-02-22,Costco,Bakery,DAVE'S 21 WG,1,each,9.59,9.59
+2025-02-22,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-02-22,Costco,Produce,MIXED PEPPER,1,each,6.89,6.89
+2025-02-22,Costco,Produce,ORG BANANAS,1,each,1.99,1.99
+2025-02-22,Costco,Produce,ORG BANANAS,1,each,1.99,1.99
+2025-02-22,Costco,Produce,4LB COSMIC,1,each,4.49,4.49
+2025-02-22,Costco,Dairy,PHL CRM CHSE,1,each,10.59,10.59
+2025-02-22,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-02-22,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-02-22,Costco,Dairy,SLC CHEDDAR,1,each,12.59,12.59
+2025-02-22,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-02-22,Costco,Pantry,ORGANIC TOFU,1,each,6.99,6.99
+2025-02-22,Costco,Pantry,ORGANIC TOFU,1,each,6.99,6.99
+2025-02-22,Costco,Produce,ROMAINE,1,each,3.69,3.69
+2025-02-22,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-02-22,Costco,Meat,KS SLCD HAM,1,each,9.59,9.59
+2025-02-22,Costco,Meat,KS RST TURKY,1,each,12.49,12.49
+2025-02-22,Costco,Pantry,KS ORG EVOO,1,each,22.99,22.99
+2025-02-22,Costco,Pantry,AVOCADO OIL,1,each,21.49,21.49
+2025-02-22,Costco,Pantry,KS ORG SYRUP,1,each,12.99,12.99
+2025-02-22,Costco,Pantry,ORGKALAMATA,1,each,8.99,8.99
+2025-02-22,Costco,Produce,CARA ORANGES,1,each,4.39,4.39
+2025-02-22,Costco,Pantry,KS ALMONDS,1,each,11.79,11.79
+2025-02-22,Costco,Alcohol,KS LAGER,1,each,13.99,13.99
+2025-02-22,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-01-25,Costco,Pantry,KS OATS,1,each,7.99,7.99
+2025-01-25,Costco,Pantry,KS DICED TOM,1,each,8.99,8.99
+2025-01-25,Costco,CRV,CA REDEMP VA,1,each,1.20,1.20
+2025-01-25,Costco,Pantry,CALROSE RICE,1,each,22.49,22.49
+2025-01-25,Costco,Produce,10LB BAKERS,1,each,4.59,4.59
+2025-01-25,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-01-25,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-01-25,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-01-25,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-01-25,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-01-25,Costco,Pantry,KS FR 2DZ,1,each,7.69,7.69
+2025-01-25,Costco,Pantry,KS FR 2DZ,1,each,-7.69,-7.69
+2025-01-25,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-01-25,Costco,Dairy,A2YOGURT,1,each,-2.00,-2.00
+2025-01-25,Costco,Dairy,KS BUTER QTR,1,each,13.59,13.59
+2025-01-25,Costco,Pantry,KS MIXED SEED,1,each,8.69,8.69
+2025-01-25,Costco,Produce,MIXED PEPPER,1,each,6.89,6.89
+2025-01-25,Costco,Meat,BEEF V/P W/TK,1,each,12.79,12.79
+2025-01-25,Costco,Other,SILK RUG 6',1,each,269.99,269.99
+2025-01-25,Costco,Other,SILK RUG 6',1,each,-3.00,-3.00
+2025-01-25,Costco,Produce,FR GARDEN 6",1,each,4.29,4.29
+2025-01-25,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-01-25,Costco,Dairy,SLC CHEDDAR,1,each,10.69,10.69
+2025-01-25,Costco,Pantry,KS ALBACORE,1,each,14.99,14.99
+2025-01-25,Costco,Eggs,KS CAGE FREE,1,each,23.07,23.07
+2025-01-25,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-01-25,Costco,Eggs,KS CAGE FREE,1,each,-7.69,-7.69
+2025-01-25,Costco,Eggs,KS CAGE FREE,1,each,-7.69,-7.69
+2025-01-25,Costco,Pantry,KS FR 2DZ,1,each,7.69,7.69
+2025-01-25,Costco,Pantry,KS FR 2DZ,1,each,7.69,7.69
+2025-01-25,Costco,Bakery,DAVE'S 21 WG,1,each,9.49,9.49
+2025-01-25,Costco,Produce,AVOCADOS,1,each,8.99,8.99
+2025-01-25,Costco,Meat,CHUCK STEAK 1/2,1,each,37.96,37.96
+2025-01-25,Costco,Pantry,ORGANIC TOFU,1,each,6.99,6.99
+2025-01-25,Costco,Produce,ORG YEL ONIO,1,each,4.99,4.99
+2025-01-25,Costco,Meat,NTL/SYL BRSTS 1/2,1,each,20.69,20.69
+2025-01-25,Costco,Produce,ORG BANANAS,1,each,1.99,1.99
+2025-01-25,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-02-08,Costco,Other,SILK OAK ALM,1,each,10.99,10.99
+2025-02-08,Costco,CRV,CA REDEMP VA,1,each,0.60,0.60
+2025-02-08,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-02-08,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-02-08,Costco,Alcohol,KS CAB 3L,1,each,15.59,15.59
+2025-02-08,Costco,CRV,CA REDEMP VA,1,each,0.25,0.25
+2025-02-08,Costco,Produce,ORANGES,1,each,6.49,6.49
+2025-02-08,Costco,Produce,LEMONS,1,each,5.69,5.69
+2025-02-08,Costco,Produce,4LB FUJI,1,each,4.79,4.79
+2025-02-08,Costco,Produce,OG CARROT&LB,1,each,3.79,3.79
+2025-02-08,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-02-08,Costco,Bakery,DAVE'S THIN,1,each,-2.50,-2.50
+2025-02-08,Costco,Bakery,DAVE'S THIN,1,each,9.49,9.49
+2025-02-08,Costco,Bakery,DAVE'S THIN,1,each,-2.50,-2.50
+2025-02-08,Costco,Produce,MIXED PEPPER,1,each,6.89,6.89
+2025-02-08,Costco,Produce,ORG SPINACH,1,each,3.89,3.89
+2025-02-08,Costco,Dairy,SLC CHEDDAR,1,each,10.69,10.69
+2025-02-08,Costco,Dairy,PHL CRM CHSE,1,each,10.59,10.59
+2025-02-08,Costco,Meat,KS RST TURKY,1,each,12.49,12.49
+2025-02-08,Costco,Meat,KS SLCD HAM,1,each,9.59,9.59
+2025-02-08,Costco,Pantry,KS ALBACORE,1,each,14.99,14.99
+2025-02-08,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-02-08,Costco,Produce,BANANAS,1,each,1.49,1.49
+2025-02-08,Costco,Produce,ORG BANANAS,1,each,1.99,1.99
+2025-02-08,Costco,Dairy,A2YOGURT,1,each,8.99,8.99
+2025-02-08,Costco,Dairy,A2YOGURT,1,each,-2.00,-2.00
+2025-02-08,Costco,Pantry,ORGANIC TOFU,1,each,6.99,6.99
+2025-02-08,Costco,Bakery,BAGELS,1,each,7.99,7.99
+2025-02-08,Costco,Pantry,SKIPPY CRMY,1,each,10.29,10.29
+2025-02-08,Costco,Produce,FRESH GARLIC,1,each,4.99,4.99
+2025-02-08,Costco,Produce,ORG YEL ONIO,1,each,4.99,4.99
+2025-02-08,Costco,Pantry,KS ORG EVOO,1,each,22.99,22.99
+2025-02-08,Costco,Produce,AVOCADOS,1,each,9.99,9.99
+2025-02-08,Costco,Produce,ORG SPAGHTTI,1,each,11.49,11.49
+2025-02-08,Costco,Produce,VINE TOMATO,1,each,6.59,6.59
+2025-02-16,WinCo Foods,Produce,CILANTRO,2,each,0.50,1.00
+2025-02-16,WinCo Foods,Produce,PARSLEY,1,each,0.58,0.58
+2025-02-16,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.38,2.38
+2025-02-16,WinCo Foods,Produce,ONIONS GREEN,3,each,0.58,1.74
+2025-02-16,WinCo Foods,Produce,KALE,3.43,lb,1.12,3.84
+2025-02-16,WinCo Foods,Produce,CELERY,3.24,lb,1.38,4.46
+2025-02-16,WinCo Foods,Pantry,NAVY BEANS,5.30,lb,0.86,4.56
+2025-02-16,WinCo Foods,Pantry,CAB GREEN,4.16,lb,1.32,4.17
+2025-02-16,WinCo Foods,Pantry,BEANS LNTLS RED,5.82,lb,0.82,4.77
+2025-02-16,WinCo Foods,Pantry,BEANS KIDNEY RD,6,each,1.88,11.28
+2025-02-16,WinCo Foods,Pantry,PINTO BEANS,12.02,lb,0.68,14.45
+2025-02-16,WinCo Foods,Produce,PPR BELL GRN,2,each,0.70,1.40
+2025-02-16,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-02-16,WinCo Foods,Pantry,RAISINS MEDLEY,0.39,lb,5.88,2.29
+2025-02-16,WinCo Foods,Pantry,PAPRIKA SMKD HU,0.27,lb,4.08,1.10
+2025-02-16,WinCo Foods,Pantry,CARAWAY,2.92,lb,1.18,3.45
+2025-02-16,WinCo Foods,Pantry,BEANS NAVY,2.29,lb,0.50,1.15
+2025-02-16,WinCo Foods,Produce,BANANAS,0.85,lb,7.98,6.78
+2025-02-16,WinCo Foods,Produce,AVOCADO MED,4,each,0.47,1.86
+2025-02-16,WinCo Foods,Produce,LIMES,4,each,0.98,3.92
+2025-02-16,WinCo Foods,Produce,EGGPLANT,1,each,3.28,3.28
+2025-02-16,WinCo Foods,Pantry,PEANUT GRAN ML,4.19,lb,1.18,4.94
+2025-02-16,WinCo Foods,Pantry,BEANS LENTILS,1,each,4.18,4.18
+2025-02-16,WinCo Foods,Meat,J-VILLE SAUSAGE,1,each,5.67,5.67
+2025-02-16,WinCo Foods,Pantry,WINCO MUSTARD,1,each,3.04,3.04
+2025-02-16,WinCo Foods,Pantry,WINCO MAYO SQZ,1,each,6.74,6.74
+2025-02-16,WinCo Foods,Pantry,WINCO OAT ROL,1.57,lb,4.48,7.03
+2025-02-16,WinCo Foods,Pantry,ALMND NATURAL,0.75,lb,5.78,4.34
+2025-02-16,WinCo Foods,Pantry,WALNUTS MED PCS,0.22,lb,7.48,1.65
+2025-02-16,WinCo Foods,Produce,PPR CHILI JALAPENO,1,each,3.88,3.88
+2025-02-16,WinCo Foods,Produce,GUERRERO TORTILLA,3.41,lb,0.98,3.34
+2025-02-16,WinCo Foods,Produce,ONIONS RED,9.43,lb,0.98,9.25
+2025-02-16,WinCo Foods,Produce,SQUASH BUTTERNUT,2.46,lb,1.59,3.95
+2025-02-16,WinCo Foods,Produce,ACORN SQUASH,1,each,6.99,6.99
+2025-02-16,WinCo Foods,Household,T-SHIRT BAG,5,each,0.10,0.50
+2025-02-16,WinCo Foods,Eggs,HICKMAN EGGS,2,each,10.96,21.92
+2025-02-16,WinCo Foods,Other,SALES TAX,1,each,2.00,2.00
+2025-02-15,WinCo Foods,Produce,CILANTRO,2,each,0.50,1.00
+2025-02-15,WinCo Foods,Produce,PARSLEY,1,each,0.58,0.58
+2025-02-15,WinCo Foods,Produce,ROMAINE HEARTS,1,each,2.38,2.38
+2025-02-15,WinCo Foods,Produce,ONIONS GREEN,3,each,0.58,1.74
+2025-02-15,WinCo Foods,Produce,KALE,3.43,lb,1.12,3.84
+2025-02-15,WinCo Foods,Produce,CELERY,3.24,lb,1.38,4.46
+2025-02-15,WinCo Foods,Pantry,NAVY BEANS,5.30,lb,0.86,4.56
+2025-02-15,WinCo Foods,Pantry,CAB GREEN,4.16,lb,1.32,4.17
+2025-02-15,WinCo Foods,Pantry,BEANS LNTLS RED,5.82,lb,0.82,4.77
+2025-02-15,WinCo Foods,Pantry,BEANS KIDNEY RD,6,each,1.88,11.28
+2025-02-15,WinCo Foods,Pantry,PINTO BEANS,12.02,lb,0.68,14.45
+2025-02-15,WinCo Foods,Produce,PPR BELL GRN,2,each,0.70,1.40
+2025-02-15,WinCo Foods,Pantry,WINCO TEA,1,each,1.98,1.98
+2025-02-15,WinCo Foods,Pantry,RAISINS MEDLEY,0.39,lb,5.88,2.29
+2025-02-15,WinCo Foods,Pantry,PAPRIKA SMKD HU,0.27,lb,4.08,1.10
+2025-02-15,WinCo Foods,Pantry,CARAWAY,2.92,lb,1.18,3.45
+2025-02-15,WinCo Foods,Pantry,BEANS NAVY,2.29,lb,0.50,1.15
+2025-02-15,WinCo Foods,Produce,BANANAS,0.85,lb,7.98,6.78
+2025-02-15,WinCo Foods,Produce,AVOCADO MED,4,each,0.47,1.86
+2025-02-15,WinCo Foods,Produce,LIMES,4,each,0.98,3.92
+2025-02-15,WinCo Foods,Produce,EGGPLANT,1,each,3.28,3.28
+2025-02-15,WinCo Foods,Pantry,PEANUT GRAN ML,4.19,lb,1.18,4.94
+2025-02-15,WinCo Foods,Pantry,BEANS LENTILS,1,each,4.18,4.18
+2025-02-15,WinCo Foods,Meat,J-VILLE SAUSAGE,1,each,5.67,5.67
+2025-02-15,WinCo Foods,Pantry,WINCO MUSTARD,1,each,3.04,3.04
+2025-02-15,WinCo Foods,Pantry,WINCO MAYO SQZ,1,each,6.74,6.74
+2025-02-15,WinCo Foods,Pantry,WINCO OAT ROL,1.57,lb,4.48,7.03
+2025-02-15,WinCo Foods,Pantry,ALMND NATURAL,0.75,lb,5.78,4.34
+2025-02-15,WinCo Foods,Pantry,WALNUTS MED PCS,0.22,lb,7.48,1.65
+2025-02-15,WinCo Foods,Produce,PPR CHILI JALAPENO,1,each,3.88,3.88
+2025-02-15,WinCo Foods,Produce,GUERRERO TORTILLA,3.41,lb,0.98,3.34
+2025-02-15,WinCo Foods,Produce,ONIONS RED,9.43,lb,0.98,9.25
+2025-02-15,WinCo Foods,Produce,SQUASH BUTTERNUT,2.46,lb,1.59,3.95
+2025-02-15,WinCo Foods,Produce,ACORN SQUASH,1,each,6.99,6.99
+2025-02-15,WinCo Foods,Household,T-SHIRT BAG,5,each,0.10,0.50
+2025-02-15,WinCo Foods,Eggs,HICKMAN EGGS,2,each,10.96,21.92
+2025-02-15,WinCo Foods,Other,SALES TAX,1,each,2.00,2.00
