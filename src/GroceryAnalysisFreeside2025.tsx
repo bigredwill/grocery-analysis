@@ -245,6 +245,28 @@ const GroceryAnalysis = () => {
             <p className="text-3xl font-bold text-purple-600">{stats.totalItems}</p>
           </div>
         </div>
+
+        <div className="bg-white p-4 rounded-lg shadow mb-6">
+          <h2 className="text-xl font-bold mb-4">Spending by Category (Table)</h2>
+          <table className="min-w-full bg-white">
+            <thead>
+              <tr>
+                <th className="py-2 px-4 border-b-2 border-gray-200 bg-gray-100 text-left text-sm font-semibold text-gray-600">Category</th>
+                <th className="py-2 px-4 border-b-2 border-gray-200 bg-gray-100 text-right text-sm font-semibold text-gray-600">Amount</th>
+                <th className="py-2 px-4 border-b-2 border-gray-200 bg-gray-100 text-right text-sm font-semibold text-gray-600">Percentage</th>
+              </tr>
+            </thead>
+            <tbody>
+              {categoryData.map((entry, index) => (
+                <tr key={index} className="hover:bg-gray-100">
+                  <td className="py-2 px-4 border-b border-gray-200 text-sm text-gray-700">{entry.name}</td>
+                  <td className="py-2 px-4 border-b border-gray-200 text-sm text-gray-700 text-right">{formatCurrency(entry.value)}</td>
+                  <td className="py-2 px-4 border-b border-gray-200 text-sm text-gray-700 text-right">{entry.percentage}%</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
           {/* Spending by Category */}
