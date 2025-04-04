@@ -64,10 +64,12 @@ const GroceryAnalysis = () => {
       // Process category data
       const categories = {};
       cleanedData.forEach(item => {
-        if (!categories[item.Category]) {
-          categories[item.Category] = 0;
+        if (item.Category !== "CRV") {
+          if (!categories[item.Category]) {
+            categories[item.Category] = 0;
+          }
+          categories[item.Category] += item.Total;
         }
-        categories[item.Category] += item.Total;
       });
       
       const categoryArray = Object.entries(categories).map(([name, spent]) => ({
