@@ -379,7 +379,9 @@ const GroceryAnalysis = () => {
   return (
     <div className="p-4 bg-gray-100 rounded-lg">
       <h1 className="text-2xl font-bold mb-6 text-center">2025 Freeside Grocery Shopping Analysis Dashboard</h1>
-      
+      <div className="flex justify-center mb-4">
+        <img src="/public/freeside-2.jpeg" alt="Freeside Logo" className="h-40 w-40" />
+      </div>
       {/* {renderUploadSection()} */}
       
       {fileUploaded ? renderDashboard() : (
