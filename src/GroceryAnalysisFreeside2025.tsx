@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { BarChart, Bar, PieChart, Pie, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell } from 'recharts';
+import { BarChart, Bar, PieChart, Pie, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, Cell, LabelList } from 'recharts';
 import Papa from 'papaparse';
+import ItemSearchComponent from './Search';
 
 const GroceryAnalysis = () => {
   const [data, setData] = useState([]);
@@ -347,19 +348,26 @@ const GroceryAnalysis = () => {
         {/* Top 10 Most Frequently Purchased Items */}
         <div className="bg-white p-4 rounded-lg shadow">
           <h2 className="text-xl font-bold mb-4">Top 10 Most Frequently Purchased Items</h2>
-          <div className="h-72">
-            <ResponsiveContainer width="100%" height="100%">
+          <div className="h-200">
+          <ResponsiveContainer width="100%" height="100%">
               <BarChart
                 data={topItems}
                 layout="vertical"
-                margin={{ top: 5, right: 30, left: 80, bottom: 5 }}
+                margin={{ top: 5, right: 30, left: 150, bottom: 5 }}
               >
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis type="number" />
-                <YAxis type="category" dataKey="name" width={100} />
+                <YAxis 
+                  type="category" 
+                  dataKey="name" 
+                  width={150} 
+                  tick={{ fontSize: 24, fill: '#333' }} 
+                />
                 <Tooltip formatter={(value, name) => name === 'total' ? formatCurrency(value) : value} />
                 <Legend />
-                <Bar dataKey="count" fill="#8884d8" name="Purchase Frequency" />
+                <Bar dataKey="count" fill="#8884d8" name="Purchase Frequency">
+                  <LabelList dataKey="count" position="right" />
+                </Bar>
               </BarChart>
             </ResponsiveContainer>
           </div>
