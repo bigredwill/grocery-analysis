@@ -1,4 +1,9 @@
-# React + TypeScript + Vite
+# Grocery Analysis
+
+A vibe coded rough analysis of a 3 month communal kitchen experiment at [mars.college](https://mars.college)
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
